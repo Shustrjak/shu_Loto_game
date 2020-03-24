@@ -1,6 +1,6 @@
 #  Copyright (c) 2020.
 #  Author: Rudenko Alexander
-#  Study package for search pair text-link
+#  Study homework game Loto
 import random
 import sys
 
